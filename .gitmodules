@@ -1,3 +1,6 @@
 [submodule "kdtree"]
 	path = kdtree
 	url = https://github.com/bklol/sourcepawn-kdtree
+[submodule "gokz"]
+	path = gokz
+	url = https://github.com/KZGlobalTeam/gokz
